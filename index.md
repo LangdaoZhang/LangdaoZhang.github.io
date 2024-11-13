@@ -26,8 +26,8 @@ Congrong Ren, Sheng Di, **Longtao Zhang**, Kai Zhao, Hanqi Guo
 
 
 ## Education Background
-- **Aug. 2019 - Jun. 2023**  B.Eng. Student at *Hunan University* 
 - **Aug. 2023 - Curr.** Ph.D. Student at *Florida State University* 
+- **Aug. 2019 - Jun. 2023**  B.Eng. Student at *Hunan University* 
 
 <!-- ## Industry Experience -->
 
@@ -107,8 +107,13 @@ TBD
 
 ## Question Writer
 
-- The 20th Programming Contest of Hunan University
+- 2024 The 20th Programming Contest of Hunan University
 - 2024 Spring Programming Contest of Florida State University
 - 2023 ACM Freshmen Cup of Hunan University
-- The 19th Programming Contest of Hunan University
+- 2023 The 19th Programming Contest of Hunan University
 - 2021 ACM Freshmen Cup of Hunan University
+
+<div style="white-space: nowrap;">
+    <img src="/assets/img/hnu.jpg" alt="HNU" width="200" height="auto">
+    <img src="/assets/img/fsu.svg" alt="FSU" width="300" height="auto">
+</div>
