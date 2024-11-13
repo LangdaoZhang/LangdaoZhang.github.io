@@ -113,7 +113,5 @@ TBD
 - 2023 The 19th Programming Contest of Hunan University
 - 2021 ACM Freshmen Cup of Hunan University
 
-<div style="white-space: nowrap;">
-    <img src="/assets/img/hnu.jpg" alt="HNU" width="200" height="auto">
-    <img src="/assets/img/fsu.svg" alt="FSU" width="300" height="auto">
-</div>
+<img src="/assets/img/hnu.jpg" alt="HNU" width="150" height="auto">
+<img src="/assets/img/fsu.svg" alt="FSU" width="200" height="auto">
