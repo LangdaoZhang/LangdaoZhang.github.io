@@ -10,9 +10,9 @@ I am Longtao Zhang (張龍韜), a second-year Ph.D. student at the CS Department
 
 ## Recent News
 
-- **Nov. 2024** Received fsu cs travel award to Sigmod'25 at Berlin
+- **Nov. 2024** Received a travel award to SIGMOD'25 at Berlin
 
-- **Nov. 2024** Received fsu grad school travel grant to SC'24 at Atlanta
+- **Nov. 2024** Received a travel grant to SC'24 at Atlanta
 
 - **Oct. 2024** One paper about lossy compression for particles is accepted by SIGMOD'25 
 
