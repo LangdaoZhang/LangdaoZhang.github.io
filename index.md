@@ -12,7 +12,7 @@ I am Longtao Zhang (張龍韜), a second-year Ph.D. student at the CS Department
 
 - **Nov. 2024** Received a travel award to SIGMOD'25 at Berlin
 
-- **Nov. 2024** Received a travel grant to SC'24 at Atlanta
+<!-- - **Nov. 2024** Received a travel grant to SC'24 at Atlanta -->
 
 - **Oct. 2024** One paper about lossy compression for particles is accepted by SIGMOD'25 
 
@@ -31,9 +31,9 @@ Congrong Ren, Sheng Di, **Longtao Zhang**, Kai Zhao, Hanqi Guo
 
 <!-- ## Industry Experience -->
 
-## Paper Review
+<!-- ## Paper Review
 
-TBD
+TBD -->
 
 ## Awards
 
@@ -41,31 +41,31 @@ TBD
 
 [I/C]CPC = [International/China] Collegiate Programming Contest
 
-- Florida State University Programming Contest<br>
+- Florida State University Programming Contest, Tallahassee<br>
 **First Place**              Nov. 2023
 
-- CCPC Xiangtan National Invitational Contest<br>
+- CCPC National Invitational Contest, Xiangtan<br>
 **Gold Medal, Third Place**  May 2023
 
-- ICPC Aisa East Continent Final<br>
+- ICPC Aisa East Continent Final, Shanghai<br>
 **Bronze Medal**             Mar. 2023
 
-- ICPC Hangzhou Regional<br>
+- ICPC Regional, Hangzhou<br>
 **Silver Medal**             Dec. 2022
 
-- ICPC Hefei Regional<br>
+- ICPC Regional, Hefei<br>
 **Silver Medal**             Nov. 2022
 
-- CCPC Weihai Regional<br>
+- CCPC Regional, Weihai<br>
 **Silver Medal**             Nov. 2022
 
-- ICPC Aisa East Continent Final<br>
+- ICPC Aisa East Continent Final, Xi'an<br>
 **Bronze Medal**             Jul. 2022
 
-- Hunan Collegiate Programming Contest<br>
+- Hunan Collegiate Programming Contest, Yiyang<br>
 **Gold Medal**               Dec. 2021
 
-- ICPC Shenyang Regional<br>
+- ICPC Regional, Shenyang<br>
 **Bronze Medal**             Nov. 2021
 
 <html lang="en">
