@@ -4,9 +4,10 @@ layout: default
 
 I am Longtao Zhang (張龍韜), a second-year Ph.D. student at the CS Department, Florida State University, under the supervision of [Prof. Kai Zhao](https://ayzk.github.io). 
 
-## Research Interest
+## Research Interests
 - Hign Performance Computing
 - Data Compression
+- Algorithms and Data Structures
 
 ## Recent News
 
@@ -35,7 +36,7 @@ Congrong Ren, Sheng Di, **Longtao Zhang**, Kai Zhao, Hanqi Guo
 
 TBD -->
 
-## Awards
+## Selected Awards
 
 - FSU Computer Science Student Conference Travel Award 
 
@@ -47,8 +48,8 @@ TBD -->
 - CCPC National Invitational Contest, Xiangtan<br>
 **Gold Medal, Third Place**  May 2023
 
-- ICPC Aisa East Continent Final, Shanghai<br>
-**Bronze Medal**             Mar. 2023
+<!-- - ICPC Aisa East Continent Final, Shanghai<br>
+**Bronze Medal**             Mar. 2023 -->
 
 - ICPC Regional, Hangzhou<br>
 **Silver Medal**             Dec. 2022
@@ -59,14 +60,14 @@ TBD -->
 - CCPC Regional, Weihai<br>
 **Silver Medal**             Nov. 2022
 
-- ICPC Aisa East Continent Final, Xi'an<br>
-**Bronze Medal**             Jul. 2022
+<!-- - ICPC Aisa East Continent Final, Xi'an<br>
+**Bronze Medal**             Jul. 2022 -->
 
-- Hunan Collegiate Programming Contest, Yiyang<br>
-**Gold Medal**               Dec. 2021
+<!-- - Hunan Collegiate Programming Contest, Yiyang<br>
+**Gold Medal**               Dec. 2021 -->
 
-- ICPC Regional, Shenyang<br>
-**Bronze Medal**             Nov. 2021
+<!-- - ICPC Regional, Shenyang<br>
+**Bronze Medal**             Nov. 2021 -->
 
 <html lang="en">
 <head>
@@ -105,13 +106,13 @@ TBD -->
 </body>
 </html>
 
-## Question Writer
+<!-- ## Question Writer
 
 - 2024 The 20th Programming Contest of Hunan University
 - 2024 Spring Programming Contest of Florida State University
 - 2023 ACM Freshmen Cup of Hunan University
 - 2023 The 19th Programming Contest of Hunan University
-- 2021 ACM Freshmen Cup of Hunan University
+- 2021 ACM Freshmen Cup of Hunan University -->
 
 <img src="/assets/img/hnu.jpg" alt="HNU" width="150" height="auto">
 <img src="/assets/img/fsu.svg" alt="FSU" width="200" height="auto">
