@@ -5,7 +5,7 @@ layout: default
 I am Longtao Zhang (張龍韜), a second-year Ph.D. student at the CS Department, Florida State University, under the supervision of [Prof. Kai Zhao](https://ayzk.github.io). 
 
 ## Research Interests
-- Hign Performance Computing
+- High Performance Computing
 - Data Compression
 - Algorithms and Data Structures
 
